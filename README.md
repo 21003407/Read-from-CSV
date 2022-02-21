@@ -17,9 +17,6 @@ Print the output.
 
 ## PROGRAM:
 ```
-# Developed by: A NAVEEN KUMAR
-# Register Number: 212221240032
-
 import pandas as pd
 df = pd.read_csv('pandascsv.csv')
 print(df.head(10))
